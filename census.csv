@@ -1,0 +1,652 @@
+State_Code,Region code,Name,District_Code,District_Name
+01,011,Mountainous,07,Kathua
+01,011,Mountainous,21,Jammu
+01,011,Montainous,22,Samba
+01,012,Outer Hills,05,Punch
+01,012,Outer Hills,06,Rajouri
+01,012,Outer Hills,16,Doda
+01,012,Outer Hills,17,Ramban
+01,012,Outer Hills,18,Kishtwar
+01,012,Outer Hills,19,Udhampur
+01,012,Outer Hills,20,Reasi
+01,013,Jhelam Valley,01,Kupwara
+01,013,Jhelam Valley,02,Badgam
+01,013,Jhelam Valley,08,Baramula
+01,013,Jhelam Valley,09,Bandipore
+01,013,Jhelam Valley,10,Srinagar
+01,013,Jhelam Valley,11,Ganderbal
+01,013,Jhelam Valley,12,Pulwama
+01,013,Jhelam Valley,13,Shupiyan
+01,013,Jhelam Valley,14,Anantnag
+01,013,Jhelam Valley,15,Kulgam
+01,014,Ladakh,03,Leh (Ladakh)
+01,014,Ladakh,04,Kargil
+02,021,Central,02,Kangra
+02,021,Central,04,Kullu
+02,021,Central,05,Mandi
+02,021,Central,06,Hamirpur
+02,021,Central,07,Una
+02,022,Trans Himalayan & Southern,01,Chamba
+02,022,Trans Himalayan & Southern,03,Lahul & Spiti
+02,022,Trans Himalayan & Southern,08,Bilaspur
+02,022,Trans Himalayan & Southern,09,Solan
+02,022,Trans Himalayan & Southern,10,Sirmaur
+02,022,Trans Himalayan & Southern,11,Shimla
+02,022,Trans Himalayan & Southern,12,Kinnaur
+03,031,Northern,01,Gurdaspur
+03,031,Northern,02,Kapurthala
+03,031,Northern,03,Jalandhar
+03,031,Northern,04,Hoshiarpur
+03,031,Northern,05,Shahid Bhagat Singh Nagar
+03,031,Northern,15,Amritsar
+03,031,Northern,16,Tarn Taran
+03,031,Northern,17,Rupnagar
+03,031,Northern,18,Sahibzada Ajit Singh Nagar
+03,031,Northern,21,Pathankot
+03,032,Southern,06,Fatehgarh Sahib
+03,032,Southern,07,Ludhiana
+03,032,Northern,08,Moga
+03,032,Southern,09,Firozpur
+03,032,Southern,10,Muktsar
+03,032,Northern,11,Faridkot
+03,032,Southern,12,Bathinda
+03,032,Southern,13,Mansa
+03,032,Southern,14,Patiala
+03,032,Southern,19,Sangrur
+03,032,Southern,20,Barnala
+03,032,Southern,22,Fazilka
+04,041,Chandigarh,01,Chandigarh
+05,051,Uttarakhand,01,Uttarkashi
+05,051,Uttarakhand,02,Chamoli
+05,051,Uttarakhand,03,Rudraprayag
+05,051,Uttarakhand,04,Tehri Garhwal
+05,051,Uttarakhand,05,Dehradun
+05,051,Uttarakhand,06,Garhwal
+05,051,Uttarakhand,07,Pithoragarh
+05,051,Uttarakhand,08,Bageshwar
+05,051,Uttarakhand,09,Almora
+05,051,Uttarakhand,10,Champawat
+05,051,Uttarakhand,11,Nainital
+05,051,Uttarakhand,12,Udham Singh Nagar
+05,051,Uttarakhand,13,Hardwar
+06,061,Eastern,01,Panchkula
+06,061,Eastern,02,Ambala
+06,061,Eastern,03,Yamunanagar
+06,061,Eastern,04,Kurukshetra
+06,061,Eastern,05,Kaithal
+06,061,Eastern,06,Karnal
+06,061,Eastern,07,Panipat
+06,061,Eastern,08,Sonipat
+06,061,Eastern,14,Rohtak
+06,061,Eastern,15,Jhajjar
+06,061,Eastern,18,Gurgaon
+06,061,Eastern,19,Mewat
+06,061,Eastern,20,Faridabad
+06,061,Eastern,21,Palwal
+06,062,Western,09,Jind
+06,062,Western,10,Fatehabad
+06,062,Western,11,Sirsa
+06,062,Western,12,Hisar
+06,062,Western,13,Bhiwani
+06,062,Western,16,Mahendragarh
+06,062,Western,17,Rewari
+07,071,Delhi,01,North West Delhi
+07,071,Delhi,02,North Delhi
+07,071,Delhi,03,North East Delhi
+07,071,Delhi,04,East Delhi
+07,071,Delhi,05,New Delhi
+07,071,Delhi,06,Central Delhi
+07,071,Delhi,07,West Delhi
+07,071,Delhi,08,South West Delhi
+07,071,Delhi,09,South Delhi
+08,081,Western,03,Bikaner
+08,081,Western,15,Jodhpur
+08,081,Western,16,Jaisalmer
+08,081,Western,17,Barmer
+08,081,Western,18,Jalor
+08,081,Western,19,Sirohi
+08,081,Western,20,Pali
+08,082,North-Eastern,06,Alwar
+08,082,North-Eastern,07,Bharatpur
+08,082,North-Eastern,08,Dhaulpur
+08,082,North-Eastern,09,Karauli
+08,082,North-Eastern,10,Sawai Madhopur
+08,082,North-Eastern,11,Dausa
+08,082,North-Eastern,12,Jaipur
+08,082,North-Eastern,21,Ajmer
+08,082,North-Eastern,22,Tonk
+08,082,North-Eastern,24,Bhilwara
+08,083,Southern,25,Rajsamand
+08,083,Southern,26,Dungarpur
+08,083,Southern,27,Banswara
+08,083,Southern,32,Udaipur
+08,084,South Eastern,23,Bundi
+08,084,South Eastern,28,Chittaurgarh
+08,084,South Eastern,29,Kota
+08,084,South Eastern,30,Baran
+08,084,South Eastern,31,Jhalawar
+08,084,South Eastern,33,Pratapgarh
+08,085,Northern,01,Ganganagar
+08,085,Northern,02,Hanumangarh
+08,085,Northern,04,Churu
+08,085,Northern,05,Jhunjhunun
+08,085,Northern,13,Sikar
+08,085,Northern,14,Nagaur
+09,091,Northern Upper Ganga Plains,01,Saharanpur
+09,091,Northern Upper Ganga Plains,02,Muzaffarnagar
+09,091,Northern Upper Ganga Plains,03,Bijnor
+09,091,Northern Upper Ganga Plains,04,Moradabad
+09,091,Northern Upper Ganga Plains,05,Rampur
+09,091,Northern Upper Ganga Plains,06,Jyotiba Phule Nagar
+09,091,Northern Upper Ganga Plains,07,Meerut
+09,091,Northern Upper Ganga Plains,08,Baghpat
+09,091,Northern Upper Ganga Plains,09,Ghaziabad
+09,091,Northern Upper Ganga Plains,10,Gautam Buddha Nagar
+09,092,Central,23,Sitapur
+09,092,Central,24,Hardoi
+09,092,Central,25,Unnao
+09,092,Central,26,Lucknow
+09,092,Central,27,Rae Bareli
+09,092,Central,32,Kanpur Dehat
+09,092,Central,33,Kanpur Nagar
+09,092,Central,41,Fatehpur
+09,092,Central,45,Bara Banki
+09,093,Eastern,42,Pratapgarh
+09,093,Eastern,43,Kaushambi
+09,093,Eastern,44,Allahabad
+09,093,Eastern,46,Faizabad
+09,093,Eastern,47,Ambedkar Nagar
+09,093,Eastern,48,Sultanpur
+09,093,Eastern,49,Bahraich
+09,093,Eastern,50,Shrawasti
+09,093,Eastern,51,Balrampur
+09,093,Eastern,52,Gonda
+09,093,Eastern,53,Siddharthnagar
+09,093,Eastern,54,Basti
+09,093,Eastern,55,Sant Kabir Nagar
+09,093,Eastern,56,Mahrajganj
+09,093,Eastern,57,Gorakhpur
+09,093,Eastern,58,Kushinagar
+09,093,Eastern,59,Deoria
+09,093,Eastern,60,Azamgarh
+09,093,Eastern,61,Mau
+09,093,Eastern,62,Ballia
+09,093,Eastern,63,Jaunpur
+09,093,Eastern,64,Ghazipur
+09,093,Eastern,65,Chandauli
+09,093,Eastern,66,Varanasi
+09,093,Eastern,67,Sant Ravidas Nagar (Bhadohi)
+09,093,Eastern,68,Mirzapur
+09,093,Eastern,69,Sonbhadra
+09,094,Southern,34,Jalaun
+09,094,Southern,35,Jhansi
+09,094,Southern,36,Lalitpur
+09,094,Southern,37,Hamirpur
+09,094,Southern,38,Mahoba
+09,094,Southern,39,Banda
+09,094,Southern,40,Chitrakoot
+09,095,Southern Upper Ganga Plains,11,Bulandshahr
+09,095,Southern Upper Ganga Plains,12,Aligarh
+09,095,Southern Upper Ganga Plains,13,Mahamaya Nagar
+09,095,Southern Upper Ganga Plains,14,Mathura
+09,095,Southern Upper Ganga Plains,15,Agra
+09,095,Southern Upper Ganga Plains,16,Firozabad
+09,095,Southern Upper Ganga Plains,17,Mainpuri
+09,095,Southern Upper Ganga Plains,18,Budaun
+09,095,Southern Upper Ganga Plains,19,Bareilly
+09,095,Southern Upper Ganga Plains,20,Pilibhit
+09,095,Southern Upper Ganga Plains,21,Shahjahanpur
+09,095,Southern Upper Ganga Plains,22,Kheri
+09,095,Southern Upper Ganga Plains,28,Farrukhabad
+09,095,Southern Upper Ganga Plains,29,Kannauj
+09,095,Southern Upper Ganga Plains,30,Etawah
+09,095,Southern Upper Ganga Plains,31,Auraiya
+09,095,Southern Upper Ganga Plains,70,Etah
+09,095,Eastern,71,Kanshiram Nagar
+10,101,Northern,01,Pashchim Champaran
+10,101,Northern,02,Purba Champaran
+10,101,Northern,03,Sheohar
+10,101,Northern,04,Sitamarhi
+10,101,Northern,05,Madhubani
+10,101,Northern,06,Supaul
+10,101,Northern,07,Araria
+10,101,Northern,08,Kishanganj
+10,101,Northern,09,Purnia
+10,101,Northern,10,Katihar
+10,101,Northern,11,Madhepura
+10,101,Northern,12,Saharsa
+10,101,Northern,13,Darbhanga
+10,101,Northern,14,Muzaffarpur
+10,101,Northern,15,Gopalganj
+10,101,Northern,16,Siwan
+10,101,Northern,17,Saran
+10,101,Northern,18,Vaishali
+10,101,Northern,19,Samastipur
+10,101,Northern,20,Begusarai
+10,101,Northern,21,Khagaria
+10,102,Central,22,Bhagalpur
+10,102,Central,23,Banka
+10,102,Central,24,Munger
+10,102,Central,25,Lakhisarai
+10,102,Central,26,Sheikhpura
+10,102,Central,27,Nalanda
+10,102,Central,28,Patna
+10,102,Central,29,Bhojpur
+10,102,Central,30,Buxar
+10,102,Central,31,Kaimur (Bhabua)
+10,102,Central,32,Rohtas
+10,102,Central,33,Aurangabad
+10,102,Central,34,Gaya
+10,102,Central,35,Nawada
+10,102,Central,36,Jamui
+10,102,Central,37,Jehanabad
+10,102,Central,38,Arwal
+11,111,Sikkim,01,North District
+11,111,Sikkim,02,West District
+11,111,Sikkim,03,South District
+11,111,Sikkim,04,East District
+12,121,Arunachal Pradesh,01,Tawang
+12,121,Arunachal Pradesh,02,West Kameng
+12,121,Arunachal Pradesh,03,East Kameng
+12,121,Arunachal Pradesh,04,Papum Pare
+12,121,Arunachal Pradesh,05,Upper Subansiri
+12,121,Arunachal Pradesh,06,West Siang
+12,121,Arunachal Pradesh,07,East Siang
+12,121,Arunachal Pradesh,08,Upper Siang
+12,121,Arunachal Pradesh,09,Changlang
+12,121,Arunachal Pradesh,10,Tirap
+12,121,Arunachal Pradesh,11,Lower Subansiri
+12,121,Arunachal Pradesh,12,Kurung Kumey
+12,121,Arunachal Pradesh,13,Dibang Valley
+12,121,Arunachal Pradesh,14,Lower Dibang Valley
+12,121,Arunachal Pradesh,15,Lohit
+12,121,Arunachal Pradesh,16,Anjaw
+13,131,Nagaland,01,Mon
+13,131,Nagaland,02,Mokokchung
+13,131,Nagaland,03,Zunheboto
+13,131,Nagaland,04,Wokha
+13,131,Nagaland,05,Dimapur
+13,131,Nagaland,06,Phek
+13,131,Nagaland,07,Tuensang
+13,131,Nagaland,08,Longleng
+13,131,Nagaland,09,Kiphire
+13,131,Nagaland,10,Kohima
+13,131,Nagaland,11,Peren
+14,141,Plains,04,Bishnupur
+14,141,Plains,05,Thoubal
+14,141,Plains,06,Imphal West
+14,141,Plains,07,Imphal East
+14,142,Hills,01,Senapati
+14,142,Hills,02,Tamenglong
+14,142,Hills,03,Churachandpur
+14,142,Hills,08,Ukhrul
+14,142,Hills,09,Chandel
+15,151,Mizoram,01,Mamit
+15,151,Mizoram,02,Kolasib
+15,151,Mizoram,03,Aizawl
+15,151,Mizoram,04,Champhai
+15,151,Mizoram,05,Serchhip
+15,151,Mizoram,06,Lunglei
+15,151,Mizoram,07,Lawngtlai
+15,151,Mizoram,08,Saiha
+16,161,Tripura,01,West Tripura
+16,161,Tripura,02,South Tripura
+16,161,Tripura,03,Dhalai
+16,161,Tripura,04,North Tripura
+17,171,Meghalaya,01,West Garo Hills
+17,171,Meghalaya,02,East Garo Hills
+17,171,Meghalaya,03,South Garo Hills
+17,171,Meghalaya,04,West Khasi Hills
+17,171,Meghalaya,05,Ribhoi
+17,171,Meghalaya,06,East Khasi Hills
+17,171,Meghalaya,07,Jaintia Hills
+18,181,Plains Eastern,08,Lakhimpur
+18,181,Plains Eastern,09,Dhemaji
+18,181,Plains Eastern,10,Tinsukia
+18,181,Plains Eastern,11,Dibrugarh
+18,181,Plains Eastern,12,Sivasagar
+18,181,Plains Eastern,13,Jorhat
+18,181,Plains Eastern,14,Golaghat
+18,182,Plains Western,01,Kokrajhar
+18,182,Plains Western,02,Dhubri
+18,182,Plains Western,03,Goalpara
+18,182,Plains Western,04,Barpeta
+18,182,Plains Western,20,Bongaigaon
+18,182,Plains Western,21,Chirang
+18,182,Plains Western,22,Kamrup
+18,182,Plains Western,23,Kamrup Metropolitan
+18,182,Plains Western,24,Nalbari
+18,182,Plains Western,25,Baksa
+18,183,Cachar Plain,15,Karbi Anglong
+18,183,Cachar Plain,16,Dima Hasao
+18,183,Cachar Plain,17,Cachar
+18,183,Cachar Plain,18,Karimganj
+18,183,Cachar Plain,19,Hailakandi
+18,184,Central Brahamputra Plains,05,Morigaon
+18,184,Central Brahamputra Plains,06,Nagaon
+18,184,Central Brahamputra Plains,07,Sonitpur
+18,184,Central Brahamputra Plains,26,Darrang
+18,184,Central Brahamputra Plains,27,Udalguri
+19,191,Himalayan,01,Darjiling
+19,191,Himalayan,02,Jalpaiguri
+19,191,Himalayan,03,Koch Bihar
+19,192,Eastern Plains,04,Uttar Dinajpur
+19,192,Eastern Plains,05,Dakshin Dinajpur
+19,192,Eastern Plains,06,Maldah
+19,192,Eastern Plains,07,Murshidabad
+19,192,Eastern Plains,08,Birbhum
+19,192,Eastern Plains,10,Nadia
+19,193,Southern Plains,11,North Twenty Four Parganas
+19,193,Southern Plains,16,Kolkata
+19,193,Southern Plains,17,South Twenty Four Parganas
+19,194,Central Plains,09,Barddhaman
+19,194,Central Plains,12,Hugli
+19,194,Central Plains,15,Haora
+19,195,Western Plains,13,Bankura
+19,195,Western Plains,14,Puruliya
+19,195,Western Plains,18,Paschim Medinipur
+19,195,Western Plains,19,Purba Medinipur
+20,201,Ranchi Plateau,01,Garhwa
+20,201,Ranchi Plateau,11,Lohardaga
+20,201,Ranchi Plateau,12,Purbi Singhbhum
+20,201,Ranchi Plateau,13,Palamu
+20,201,Ranchi Plateau,14,Latehar
+20,201,Ranchi Plateau,19,Ranchi
+20,201,Ranchi Plateau,20,Khunti
+20,201,Ranchi Plateau,21,Gumla
+20,201,Ranchi Plateau,22,Simdega
+20,201,Ranchi Plateau,23,Pashchimi Singhbhum
+20,201,Ranchi Plateau,24,Saraikela-Kharsawan
+20,202,Hazaribagh Plateau,02,Chatra
+20,202,Hazaribagh Plateau,03,Kodarma
+20,202,Hazaribagh Plateau,04,Giridih
+20,202,Hazaribagh Plateau,05,Deoghar
+20,202,Hazaribagh Plateau,06,Godda
+20,202,Hazaribagh Plateau,07,Sahibganj
+20,202,Hazaribagh Plateau,08,Pakur
+20,202,Hazaribagh Plateau,09,Dhanbad
+20,202,Hazaribagh Plateau,10,Bokaro
+20,202,Hazaribagh Plateau,15,Hazaribagh
+20,202,Hazaribagh Plateau,16,Ramgarh
+20,202,Hazaribagh Plateau,17,Dumka
+20,202,Hazaribagh Plateau,18,Jamtara
+21,211,Coastal,08,Baleshwar
+21,211,Coastal,09,Bhadrak
+21,211,Coastal,10,Kendrapara
+21,211,Coastal,11,Jagatsinghapur
+21,211,Coastal,12,Cuttack
+21,211,Coastal,13,Jajapur
+21,211,Coastal,16,Nayagarh
+21,211,Coastal,17,Khordha
+21,211,Coastal,18,Puri
+21,212,Southern,19,Ganjam
+21,212,Southern,20,Gajapati
+21,212,Southern,21,Kandhamal
+21,212,Southern,22,Baudh
+21,212,Southern,23,Subarnapur
+21,212,Southern,24,Balangir
+21,212,Southern,25,Nuapada
+21,212,Southern,26,Kalahandi
+21,212,Southern,27,Rayagada
+21,212,Southern,28,Nabarangapur
+21,212,Southern,29,Koraput
+21,212,Southern,30,Malkangiri
+21,213,Northern,01,Bargarh
+21,213,Northern,02,Jharsuguda
+21,213,Northern,03,Sambalpur
+21,213,Northern,04,Debagarh
+21,213,Northern,05,Sundargarh
+21,213,Northern,06,Kendujhar
+21,213,Northern,07,Mayurbhanj
+21,213,Northern,14,Dhenkanal
+21,213,Northern,15,Anugul
+22,221,Northern Chhattisgarh,01,Koriya
+22,221,Northern Chhattisgarh,02,Surguja
+22,221,Northern Chhattisgarh,26,Surajpur
+22,221,Northern Chhattisgarh,27,Balrampur
+22,222,Mahanadi Basin,03,Jashpur
+22,222,Mahanadi Basin,04,Raigarh
+22,222,Mahanadi Basin,05,Korba
+22,222,Mahanadi Basin,06,Janjgir-Champa
+22,222,Mahanadi Basin,07,Bilaspur
+22,222,Mahanadi Basin,08,Kabeerdham
+22,222,Mahanadi Basin,09,Rajnandgaon
+22,222,Mahanadi Basin,10,Durg
+22,222,Mahanadi Basin,11,Raipur
+22,222,Mahanadi Basin,12,Mahasamund
+22,222,Mahanadi Basin,13,Dhamtari
+22,222,Mahanadi Basin,19,Balodabazar
+22,222,Mahanadi Basin,20,Gariyaband
+22,222,Mahanadi Basin,23,Bemetara
+22,222,Mahanadi Basin,24,Balod
+22,222,Mahanadi Basin,25,Mungeli
+22,223,Southern Chhattisgarh,14,Uttar Bastar Kanker
+22,223,Southern Chhattisgarh,15,Bastar
+22,223,Southern Chhattisgarh,16,Narayanpur
+22,223,Southern Chhattisgarh,17,Dakshin Bastar Dantewada
+22,223,Southern Chhattisgarh,18,Bijapur
+22,223,Southern Chhattisgarh,21,Kondagaon
+22,223,Southern Chhattisgarh,22,Sukama
+23,231,Vindhya,07,Tikamgarh
+23,231,Vindhya,08,Chhatarpur
+23,231,Vindhya,09,Panna
+23,231,Vindhya,12,Satna
+23,231,Vindhya,13,Rewa
+23,231,Vindhya,14,Umaria
+23,231,Vindhya,43,Shahdol
+23,231,Vindhya,44,Anuppur
+23,231,Vindhya,45,Sidhi
+23,231,Vindhya,46,Singrauli
+23,232,Central,10,Sagar
+23,232,Central,11,Damoh
+23,232,Central,26,Vidisha
+23,232,Central,27,Bhopal
+23,232,Central,28,Sehore
+23,232,Central,29,Raisen
+23,233,Malwa,15,Neemuch
+23,233,Malwa,16,Mandsaur
+23,233,Malwa,17,Ratlam
+23,233,Malwa,18,Ujjain
+23,233,Malwa,19,Shajapur
+23,233,Malwa,20,Dewas
+23,233,Malwa,21,Dhar
+23,233,Malwa,22,Indore
+23,233,Malwa,25,Rajgarh
+23,233,Malwa,47,Jhabua
+23,233,Malwa,48,Alirajpur
+23,234,South,33,Katni
+23,234,South,34,Jabalpur
+23,234,South,35,Narsimhapur
+23,234,South,36,Dindori
+23,234,South,37,Mandla
+23,234,South,38,Chhindwara
+23,234,South,39,Seoni
+23,234,South,40,Balaghat
+23,235,South Western,23,Khargone (West Nimar)
+23,235,South Western,24,Barwani
+23,235,South Western,30,Betul
+23,235,South Western,31,Harda
+23,235,South Western,32,Hoshangabad
+23,235,South Western,49,Khandwa (East Nimar)
+23,235,South Western,50,Burhanpur
+23,236,Northern,01,Sheopur
+23,236,Northern,02,Morena
+23,236,Northern,03,Bhind
+23,236,Northern,04,Gwalior
+23,236,Northern,05,Datia
+23,236,Northern,06,Shivpuri
+23,236,Northern,41,Guna
+23,236,Northern,42,Ashoknagar
+24,241,South Eastern,17,Panch Mahals
+24,241,South Eastern,18,Dohad
+24,241,South Eastern,19,Vadodara
+24,241,South Eastern,20,Narmada
+24,241,South Eastern,21,Bharuch
+24,241,South Eastern,22,The Dangs
+24,241,South Eastern,23,Navsari
+24,241,South Eastern,24,Valsad
+24,241,South Eastern,25,Surat
+24,241,South Eastern,26,Tapi
+24,242,Plains Northern,04,Mahesana
+24,242,Plains Northern,05,Sabar Kantha
+24,242,Plains Northern,06,Gandhinagar
+24,242,Plains Northern,07,Ahmedabad
+24,242,Plains Northern,15,Anand
+24,242,Plains Northern,16,Kheda
+24,243,Dry areas,02,Banas Kantha
+24,243,Dry areas,03,Patan
+24,244,Kachchh,01,Kachchh
+24,245,Saurashtra,08,Surendranagar
+24,245,Saurashtra,09,Rajkot
+24,245,Saurashtra,10,Jamnagar
+24,245,Saurashtra,11,Porbandar
+24,245,Saurashtra,12,Junagadh
+24,245,Saurashtra,13,Amreli
+24,245,Saurashtra,14,Bhavnagar
+25,251,Daman & Diu,01,Diu
+25,251,Daman & Diu,02,Daman
+26,261,Dadra and Nagar Haveli,01,Dadra & Nagar Haveli
+27,271,Coastal,21,Thane
+27,271,Coastal,22,Mumbai Suburban
+27,271,Coastal,23,Mumbai
+27,271,Coastal,24,Raigarh
+27,271,Coastal,32,Ratnagiri
+27,271,Coastal,33,Sindhudurg
+27,272,Inland Western,25,Pune
+27,272,Inland Western,26,Ahmadnagar
+27,272,Inland Western,30,Solapur
+27,272,Inland Western,31,Satara
+27,272,Inland Western,34,Kolhapur
+27,272,Inland Western,35,Sangli
+27,273,Inland Northern,01,Nandurbar
+27,273,Inland Northern,02,Dhule
+27,273,Inland Northern,03,Jalgaon
+27,273,Inland Northern,20,Nashik
+27,274,Inland Central,15,Nanded
+27,274,Inland Central,16,Hingoli
+27,274,Inland Central,17,Parbhani
+27,274,Inland Central,18,Jalna
+27,274,Inland Central,19,Aurangabad
+27,274,Inland Central,27,Bid
+27,274,Inland Central,28,Latur
+27,274,Inland Central,29,Osmanabad
+27,275,Inland Eastern,04,Buldana
+27,275,Inland Eastern,05,Akola
+27,275,Inland Eastern,06,Washim
+27,275,Inland Eastern,07,Amravati
+27,275,Inland Eastern,08,Wardha
+27,275,Inland Eastern,09,Nagpur
+27,275,Inland Eastern,14,Yavatmal
+27,276,Eastern,10,Bhandara
+27,276,Eastern,11,Gondiya
+27,276,Eastern,12,Gadchiroli
+27,276,Eastern,13,Chandrapur
+28,281,Coastal Northern,01,Srikakulam
+28,281,Coastal Northern,02,Vizianagaram
+28,281,Coastal Northern,03,Visakhapatnam
+28,281,Coastal Northern,04,East Godavari
+28,281,Coastal Northern,05,West Godavari
+28,282,Coastal Southern,06,Krishna
+28,282,Coastal Southern,07,Guntur
+28,282,Coastal Southern,08,Prakasam
+28,282,Coastal Southern,09,Sri Potti Sriramulu Nellore
+28,283,Inland Southern,10,Y.S.R. (Cuddapah)
+28,283,Inland Southern,11,Kurnool
+28,283,Inland Southern,12,Anantapur
+28,283,Inland Southern,13,Chittoor
+29,291,Coastal & Ghats,09,Uttara Kannada
+29,291,Coastal & Ghats,15,Udupi
+29,291,Coastal & Ghats,21,Dakshina Kannada
+29,292,Inland Eastern,14,Shimoga
+29,292,Inland Eastern,16,Chikmagalur
+29,292,Inland Eastern,20,Hassan
+29,292,Inland Eastern,22,Kodagu
+29,293,Inland Southern,17,Tumkur
+29,293,Inland Southern,18,Bangalore
+29,293,Inland Southern,19,Mandya
+29,293,Inland Southern,23,Mysore
+29,293,Inland Southern,24,Chamarajanagar
+29,293,Inland Southern,27,Kolar
+29,293,Inland Southern,28,Chikkaballapura
+29,293,Inland Southern,29,Bangalore (Rural)
+29,293,Inland Southern,30,Ramanagara
+29,294,Inland Northern,01,Belgaum
+29,294,Inland Northern,02,Bagalkot
+29,294,Inland Northern,03,Bijapur
+29,294,Inland Northern,04,Bidar
+29,294,Inland Northern,05,Raichur
+29,294,Inland Northern,06,Koppal
+29,294,Inland Northern,07,Gadag
+29,294,Inland Northern,08,Dharwad
+29,294,Inland Northern,10,Haveri
+29,294,Inland Northern,11,Bellary
+29,294,Inland Northern,12,Chitradurga
+29,294,Inland Northern,13,Davanagere
+29,294,Inland Northern,25,Gulbarga
+29,294,Inland Northern,26,Yadgir
+30,301,Goa,01,North Goa
+30,301,Goa,02,South Goa
+31,311,Lakshadweep,01,Lakshadweep
+32,321,Northern,01,Kasaragod
+32,321,Northern,02,Kannur
+32,321,Northern,03,Wayanad
+32,321,Northern,04,Kozhikode
+32,321,Northern,05,Malappuram
+32,321,Northern,06,Palakkad
+32,322,Southern,07,Thrissur
+32,322,Southern,08,Ernakulam
+32,322,Southern,09,Idukki
+32,322,Southern,10,Kottayam
+32,322,Southern,11,Alappuzha
+32,322,Southern,12,Pathanamthitta
+32,322,Southern,13,Kollam
+32,322,Southern,14,Thiruvananthapuram
+33,331,Coastal Northern,01,Thiruvallur
+33,331,Coastal Northern,02,Chennai
+33,331,Coastal Northern,03,Kancheepuram
+33,331,Coastal Northern,04,Vellore
+33,331,Coastal Northern,05,Tiruvannamalai
+33,331,Coastal Northern,06,Viluppuram
+33,331,Coastal Northern,16,Cuddalore
+33,332,Coastal,12,Karur
+33,332,Coastal,13,Tiruchirappalli
+33,332,Coastal,14,Perambalur
+33,332,Coastal,15,Ariyalur
+33,332,Coastal,17,Nagapattinam
+33,332,Coastal,18,Thiruvarur
+33,332,Coastal,19,Thanjavur
+33,332,Coastal,20,Pudukkottai
+33,333,Southern,11,Dindigul
+33,333,Southern,21,Sivaganga
+33,333,Southern,22,Madurai
+33,333,Southern,23,Theni
+33,333,Southern,24,Virudhunagar
+33,333,Southern,25,Ramanathapuram
+33,333,Southern,26,Thoothukkudi
+33,333,Southern,27,Tirunelveli
+33,333,Southern,28,Kanniyakumari
+33,334,Inland,07,Salem
+33,334,Inland,08,Namakkal
+33,334,Inland,09,Erode
+33,334,Inland,10,The Nilgiris
+33,334,Inland,29,Dharmapuri
+33,334,Inland,30,Krishnagiri
+33,334,Inland,31,Coimbatore
+33,334,Inland,32,Tiruppur
+34,341,Pondicherry,01,Yanam
+34,341,Pondicherry,02,Puducherry
+34,341,Pondicherry,03,Mahe
+34,341,Pondicherry,04,Karaikal
+35,351,Andaman & Nicobar Islands,01,Nicobars
+35,351,Andaman & Nicobar Islands,02,North & Middle Andaman
+35,351,Andaman & Nicobar Islands,03,South Andaman
+36,361,Inland North Western,01,Adilabad
+36,361,Inland North Western,02,Nizamabad
+36,361,Inland North Western,04,Medak
+36,361,Inland North Western,05,Hyderabad
+36,361,Inland North Western,06,Rangareddy
+36,361,Inland North Western,07,Mahbubnagar
+36,362,Inland North Eastern,03,Karimnagar
+36,362,Inland North Eastern,08,Nalgonda
+36,362,Inland North Eastern,09,Warangal
+36,362,Inland North Eastern,10,Khammam
