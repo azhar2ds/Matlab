@@ -1,0 +1,101 @@
+,Unnamed: 0,prefix,fname,lname,gender,email,age,weight,date of Joining,age in company,salary,hike,expenses,income,saving,cars,car_type,ssn,city,state,zip,region,diabetics,smoker
+0,0,Ms.,Angelique,Goodwin,F,angelique.goodwin@gmail.com,53.24,56,3/24/2001,16.36,193710,0.27,34985,42660,7675,3,audi,471-57-0359,Rochester,NY,14624,Northeast,Type A,Yes
+1,1,Ms.,Jeni,Shaffer,F,jeni.shaffer@gmail.com,55.58,54,12/10/2015,1.63,144133,0.3,35984,43899,7915,3,audi,624-85-4146,Luverne,AL,36049,South,Healthy,Yes
+2,2,Ms.,Donald,Farris,F,donald.farris@bellsouth.net,59.34,40,11/12/1979,37.73,132617,0.18,36272,44918,8646,3,audi,097-02-3315,Hodges,AL,35571,South,Healthy,Yes
+3,3,Hon.,Steven,Rendon,M,steven.rendon@gmail.com,35.34,81,9/18/2008,8.86,77898,0.15,61640,72809,11169,4,audi,134-98-6566,Savoy,IL,61874,Midwest,Healthy,Yes
+4,4,Drs.,Jenell,Almanza,F,jenell.almanza@yahoo.com,59.12,47,7/14/1993,24.05,139856,0.06,62422,72500,10078,4,audi,599-92-7345,Stet,MO,64680,Midwest,Healthy,Yes
+5,5,Mrs.,Almeta,Brookins,F,almeta.brookins@gmail.com,32.24,41,4/25/2017,0.26,90576,0.23,62980,73151,10171,4,chevrolet,109-98-3095,Lyons,GA,30436,South,Healthy,Yes
+6,6,Prof.,Bobbie,Branson,M,bobbie.branson@hotmail.com,21.48,71,4/27/2017,0.25,178641,0.1,63511,73361,9850,4,chevrolet,047-15-8435,Kalida,OH,45853,Midwest,Healthy,Yes
+7,7,Prof.,Bertram,Carlisle,M,bertram.carlisle@aol.com,34.6,61,11/2/2012,4.74,163773,0.1,127275,136825,9550,4,chevrolet,257-99-3865,Hamilton,PA,15744,Northeast,Healthy,Yes
+8,8,Prof.,Carlton,Leclair,M,carlton.leclair@cox.net,31.39,56,1/7/2009,8.56,50397,0.29,128571,138216,9645,4,chevrolet,044-15-4027,Panama,IA,51562,Midwest,Healthy,Yes
+9,9,Mr.,Todd,Slater,M,todd.slater@earthlink.net,22.15,58,3/7/2017,0.39,54458,0.12,129988,140168,10180,4,chevrolet,553-99-2106,Young America,MN,55558,Midwest,Healthy,Yes
+10,10,Mr.,Adalberto,Hazel,M,adalberto.hazel@yahoo.co.in,57.68,66,4/27/1995,22.27,120471,0.1,97419,103277,5858,2,chevrolet,264-99-9423,Bear Creek,WI,54922,Midwest,Healthy,Yes
+11,11,Mr.,Seymour,Nelson,M,seymour.nelson@hotmail.com,21.53,63,7/2/2017,0.07,77853,0.29,57527,69173,11646,4,chevrolet,119-98-1796,Harleysville,PA,19441,Northeast,Healthy,Yes
+12,12,Mr.,Vicente,Dawkins,M,vicente.dawkins@gmail.com,23.13,62,7/2/2016,1.07,169446,0.11,58377,69300,10923,4,dodge,116-98-6696,Reddick,IL,60961,Midwest,Type B,Yes
+13,13,Mr.,Rex,Ng,M,rex.ng@yahoo.com,34.96,68,1/17/2007,10.53,153446,0.07,58859,69561,10702,4,dodge,192-86-7823,Kreamer,PA,17833,Northeast,Type B,Yes
+14,14,Drs.,Arlena,Clough,F,arlena.clough@yahoo.com,59.82,48,12/26/2015,1.59,95109,0.15,32659,40835,8176,3,dodge,032-92-6090,Sublette,KS,67877,Midwest,Type B,Yes
+15,15,Mr.,Cory,Clarke,M,cory.clarke@shell.com,37.18,89,4/27/2012,5.25,179134,0.16,33728,41209,7481,3,dodge,731-28-8642,Mesa,AZ,85207,West,Type B,Yes
+16,16,Mrs.,Sofia,Poole,F,sofia.poole@earthlink.net,52.68,43,7/18/1993,24.04,150019,0.24,34985,42660,7675,3,ford,126-98-9929,Brockway,PA,15824,Northeast,Type B,Yes
+17,17,Dr.,Samuel,Wendt,M,samuel.wendt@bellsouth.net,40.7,72,2/24/2016,1.42,198487,0.26,28989,30000,1011,0,ford,369-39-1426,Atlanta,GA,30371,South,Type B,Yes
+18,18,Mr.,Virgil,Trowbridge,M,virgil.trowbridge@aol.com,31.33,73,11/21/2016,0.68,199714,0.11,79784,91341,11557,4,ford,005-13-9026,Washington,DC,20242,South,Type B,Yes
+19,19,Ms.,Elda,Champagne,F,elda.champagne@gmail.com,34.21,50,11/8/2016,0.72,146140,0.04,81508,92444,10936,4,ford,540-83-9723,Lake Itasca,MN,56460,Midwest,Type B,Yes
+20,20,Mr.,Robert,Guinn,M,robert.guinn@walmart.com,45.15,67,1/8/1997,20.56,86539,0.12,83024,92840,9816,4,honda,403-73-1584,Montpelier,IN,47359,Midwest,Type B,Yes
+21,21,Prof.,Humberto,Sauer,M,humberto.sauer@yahoo.com,28.32,66,11/12/2012,4.71,116308,0.28,83620,93077,9457,4,honda,210-84-3620,Jeddo,MI,48032,Midwest,Type B,Yes
+22,22,Mrs.,Anastasia,Childers,F,anastasia.childers@hotmail.com,28.62,42,2/26/2011,6.42,184099,0.24,61829,65909,4080,2,honda,753-07-4603,Dallas,WI,54733,Midwest,Healthy,Yes
+23,23,Ms.,Collene,Kidd,F,collene.kidd@shell.com,52.45,50,8/14/1993,23.97,59428,0.07,117609,125356,7747,3,honda,704-18-2387,Reedley,CA,93654,West,Healthy,Yes
+24,24,Hon.,Harris,Beavers,M,harris.beavers@shell.com,46.9,87,1/29/1999,18.51,147337,0.14,120178,127784,7606,3,honda,008-94-7794,Brandon,FL,33511,South,Healthy,Yes
+25,25,Ms.,Kathe,John,F,kathe.john@gmail.com,25.13,45,12/28/2013,3.58,91921,0.28,122383,129671,7288,3,honda,444-27-9644,Hallsville,OH,45633,Midwest,Healthy,Yes
+26,26,Ms.,Ashly,Stanton,F,ashly.stanton@gmail.com,24.64,52,2/10/2014,3.46,143236,0.17,123977,135387,11410,4,honda,385-37-9974,Belvidere,IL,61008,Midwest,Healthy,Yes
+27,27,Mr.,Geraldo,Easley,M,geraldo.easley@shaw.ca,43.36,82,5/6/2002,15.24,84087,0.01,86335,97372,11037,4,honda,556-99-1014,Dallas,TX,75363,South,Healthy,Yes
+28,28,Mr.,Leigh,Fite,M,leigh.fite@gmail.com,50.07,81,6/3/2004,13.16,87149,0.27,87305,96755,9450,4,hyundai,548-99-7981,Berwick,IL,61417,Midwest,Healthy,Yes
+29,29,Ms.,Devon,Knox,F,devon.knox@gmail.com,38.37,50,9/3/2005,11.91,111117,0.14,88981,97643,8662,3,hyundai,344-11-4272,Vienna,VA,22184,South,Healthy,Yes
+30,30,Ms.,Yevette,Mullis,F,yevette.mullis@gmail.com,45.33,54,10/14/1995,21.8,129752,0.22,34985,42660,7675,3,hyundai,031-92-8075,Lakewood,OH,44107,Midwest,Healthy,Yes
+31,31,Mrs.,Irena,Dang,F,irena.dang@gmail.com,45.55,49,2/24/2009,8.43,192236,0.1,35984,43899,7915,3,hyundai,636-31-2014,Crockett,VA,24323,South,Healthy,Yes
+32,32,Mr.,Cory,Hayden,M,cory.hayden@gmail.com,51.06,66,3/31/1992,25.34,79619,0.24,36272,44918,8646,3,hyundai,109-98-9846,Genesee Depot,WI,53127,Midwest,Healthy,Yes
+33,33,Hon.,Dolores,Begley,F,dolores.begley@hotmail.com,35.64,58,3/21/2016,1.35,182967,0.13,61640,72809,11169,4,jeep,019-94-6803,Shasta Lake,CA,96019,West,Healthy,Yes
+34,34,Mr.,Benjamin,Doss,M,benjamin.doss@gmail.com,33.18,68,3/31/2010,7.33,126429,0.23,28989,30000,1011,0,jeep,607-87-2621,Lookout Mountain,GA,30750,South,Type B,Yes
+35,35,Hon.,Theron,Farmer,M,theron.farmer@gmail.com,48.23,80,7/8/2015,2.06,85523,0.17,129988,140168,10180,4,jeep,430-99-8830,Sesser,IL,62884,Midwest,Type B,Yes
+36,36,Mr.,Hilton,Mcgehee,M,hilton.mcgehee@microsoft.com,31.03,65,3/18/2009,8.37,149794,0.18,93419,103277,9858,4,jeep,042-15-4369,Sterling Heights,MI,48312,Midwest,Type B,Yes
+37,37,Ms.,Sixta,Beaudoin,F,sixta.beaudoin@gmail.com,42.43,45,2/29/2004,13.42,122324,0.01,57527,69173,11646,4,jeep,399-31-6070,Hood,VA,22723,South,Type B,Yes
+38,38,Ms.,Sade,Shay,F,sade.shay@gmail.com,22.66,42,1/20/2016,1.52,58708,0.04,63377,69300,5923,2,jeep,693-16-3108,Oktaha,OK,74450,South,Type B,Yes
+39,39,Mrs.,Shemika,Beckman,F,shemika.beckman@hotmail.com,49.81,46,2/7/2003,14.48,117633,0.28,58859,69561,10702,4,jeep,625-85-6937,Briar,MO,63931,Midwest,Healthy,Yes
+40,40,Mr.,Winfred,Gonzales,M,winfred.gonzales@aol.com,53.42,76,1/18/2016,1.53,126630,0.02,32659,40835,8176,3,jeep,466-99-0813,Orefield,PA,18069,Northeast,Healthy,Yes
+41,41,Mr.,Rogelio,Woodall,M,rogelio.woodall@gmail.com,44.64,87,12/22/1996,20.61,172325,0.05,33728,41209,7481,3,jeep,218-89-5439,Wells,KS,67488,Midwest,Healthy,Yes
+42,42,Mr.,Damion,Rafferty,M,damion.rafferty@yahoo.com,42.78,60,3/20/2015,2.36,167184,0.1,34985,42660,7675,3,jeep,235-57-9815,Bartlett,IL,60103,Midwest,Healthy,Yes
+43,43,Mr.,Dannie,Catron,M,dannie.catron@earthlink.net,38.3,86,10/13/2016,0.79,176777,0.01,28989,30000,1011,0,jeep,073-02-8837,Eldersville,PA,15036,Northeast,Healthy,Yes
+44,44,Hon.,Stephan,Titus,M,stephan.titus@hotmail.com,49.42,61,10/17/2009,7.78,115488,0.29,79784,91341,11557,4,land rover,235-57-1721,Reelsville,IN,46171,Midwest,Healthy,Yes
+45,45,Mr.,Dorian,Sage,M,dorian.sage@shaw.ca,47.04,59,7/14/1992,25.05,66883,0.01,81508,92444,10936,4,land rover,553-99-7803,Perry Park,KY,40363,South,Healthy,Yes
+46,46,Mr.,Jake,Espinal,M,jake.espinal@shaw.ca,58.56,71,9/25/2003,13.85,140108,0.19,83024,84990,1966,0,land rover,594-99-8803,Ventura,CA,93003,West,Healthy,Yes
+47,47,Mr.,Claudio,Heck,M,claudio.heck@aol.com,49.87,74,5/14/2005,12.21,48198,0.22,83620,93077,9457,4,land rover,366-39-9069,Hershey,PA,17033,Northeast,Healthy,Yes
+48,48,Prof.,Marcel,Trotter,M,marcel.trotter@aol.com,32.51,78,4/25/2006,11.27,50635,0.14,61829,65909,4080,2,land rover,763-12-7919,Aberdeen,SD,57401,Midwest,Healthy,Yes
+49,49,Prof.,Dillon,Dominguez,M,dillon.dominguez@gmail.com,53.8,87,1/29/2015,2.5,53198,0.03,117609,125356,7747,3,land rover,285-15-0592,Hawley,MN,56549,Midwest,Type B,Yes
+50,50,Mr.,Sammy,Dewitt,M,sammy.dewitt@ibm.com,29.53,89,12/5/2014,2.65,45889,0.21,120178,127784,7606,3,land rover,729-28-6911,Redondo,WA,98054,West,Type B,Yes
+51,51,Mr.,Sterling,Serna,M,sterling.serna@hotmail.com,32.31,81,11/17/2015,1.7,136675,0.26,122383,129671,7288,3,land rover,512-33-9199,Godeffroy,NY,12739,Northeast,Type B,Yes
+52,52,Mrs.,Ivonne,Manning,F,ivonne.manning@yahoo.ca,39.9,50,6/29/2002,15.09,87746,0.14,123977,135387,11410,4,land rover,609-87-3514,Donnybrook,ND,58734,Midwest,Type B,Yes
+53,53,Hon.,Clair,Harwell,M,clair.harwell@bp.com,48.99,87,4/14/1991,26.31,194249,0.08,86335,97372,11037,4,land rover,626-85-0761,Portland,NY,14769,Northeast,Type B,Yes
+54,54,Ms.,Jenni,Goolsby,F,jenni.goolsby@gmail.com,46.24,57,10/10/2005,11.81,185593,0.3,87305,96755,9450,4,land rover,250-99-6761,Ripplemead,VA,24150,South,Type B,Yes
+55,55,Hon.,Tayna,Poston,F,tayna.poston@yahoo.ca,59.57,58,1/30/2016,1.49,149011,0.23,88981,97643,8662,3,land rover,714-18-2827,San Diego,CA,92126,West,Type B,Yes
+56,56,Prof.,Vern,Mackenzie,M,vern.mackenzie@gmail.com,35.09,73,12/31/2016,0.57,76401,0.15,34985,42660,7675,3,land rover,234-57-0893,Annandale,VA,22003,South,Type B,Yes
+57,57,Mr.,Harrison,Hawk,M,harrison.hawk@hotmail.co.uk,55.06,67,6/26/2006,11.1,191292,0.04,93419,103277,9858,4,lincoln,592-99-9799,Dallas,TX,75224,South,Type B,Yes
+58,58,Mr.,Preston,Tribble,M,preston.tribble@exxonmobil.com,37.76,76,3/20/2004,13.36,185438,0.22,93419,96277,2858,1,lincoln,149-23-1759,Orofino,ID,83544,West,Type B,Yes
+59,59,Ms.,Aleen,Araujo,F,aleen.araujo@gmail.com,39.24,58,11/7/2004,12.73,56546,0.22,57527,69173,11646,4,lincoln,133-98-0581,Mobile,AL,36685,South,Type B,Yes
+60,60,Mr.,Brent,Carrillo,M,brent.carrillo@aol.com,44.35,52,3/30/2013,4.33,192586,0.09,58377,69300,10923,4,lincoln,258-99-5725,Lowell,FL,32663,South,Type A,Yes
+61,61,Mr.,Adalberto,Tate,M,adalberto.tate@shaw.ca,35.35,85,8/15/2009,7.96,46371,0.24,58859,69561,10702,4,lincoln,032-92-8729,Canton,OH,44750,Midwest,Type A,Yes
+62,62,Mr.,Rafael,Weeks,M,rafael.weeks@gmail.com,25.16,56,10/31/2016,0.74,49301,0.26,32659,40835,8176,3,lincoln,546-99-1086,Niverville,NY,12130,Northeast,Type A,Yes
+63,63,Hon.,Aurea,Pullen,F,aurea.pullen@gmail.com,44.05,55,10/25/2016,0.76,137648,0.22,33728,41209,7481,3,lincoln,622-85-5122,Davenport,FL,33836,South,Type A,Yes
+64,64,Hon.,Ramiro,Holguin,M,ramiro.holguin@gmail.com,59.2,62,11/18/2002,14.7,171193,0.18,34985,42660,7675,3,lincoln,104-02-1961,Mount Eaton,OH,44659,Midwest,Type A,Yes
+65,65,Drs.,Celine,Lumpkin,F,celine.lumpkin@gmail.com,30.59,59,1/22/2008,9.52,124808,0.14,28989,30000,1011,0,lincoln,368-39-3103,Cleveland,OH,44178,Midwest,Type A,Yes
+66,66,Mr.,Bryant,Naylor,M,bryant.naylor@hotmail.com,24.04,63,10/21/2014,2.77,131219,0.12,79784,91341,11557,4,lincoln,698-16-4709,Fort Fairfield,ME,4742,Northeast,Type A,Yes
+67,67,Hon.,Oswaldo,Winchester,M,oswaldo.winchester@gmail.com,58.35,81,9/11/1989,27.9,100218,0.12,81508,92444,10936,4,lincoln,728-14-6144,Little Rock,AR,72231,South,Type A,Yes
+68,68,Mrs.,Kacy,Crandall,F,kacy.crandall@hotmail.com,55.92,60,12/25/1983,33.61,178521,0.25,83024,92840,9816,4,lincoln,171-86-6831,Union City,GA,30291,South,Type A,No
+69,69,Mr.,Brock,Hutcherson,M,brock.hutcherson@hotmail.com,22.41,74,10/16/2016,0.78,137705,0.01,83620,93077,9457,4,nissan,086-02-8001,Clemson,SC,29631,South,Type A,No
+70,70,Mr.,Ramiro,Conover,M,ramiro.conover@earthlink.net,25.02,69,9/16/2016,0.86,187877,0.02,61829,65909,4080,2,nissan,494-29-8376,Lee,ME,4455,Northeast,Type A,No
+71,71,Mr.,Myron,Marble,M,myron.marble@gmail.com,36.65,73,6/12/2004,13.13,164189,0.14,117609,125356,7747,3,nissan,183-86-5370,Torbert,LA,70781,South,Type A,No
+72,72,Mr.,Freeman,Kern,M,freeman.kern@gmail.com,54.08,89,5/10/1987,30.24,124776,0.18,120178,127784,7606,3,nissan,393-33-5849,Powderhorn,CO,81243,West,Type A,No
+73,73,Mr.,Mathew,Whitfield,M,mathew.whitfield@gmail.com,30.82,50,8/25/2015,1.93,84449,0.03,122383,129671,7288,3,holden,772-02-3040,Garvin,OK,74736,South,Type A,No
+74,74,Mr.,Alexander,Goad,M,alexander.goad@cox.net,52.22,52,7/24/1994,23.03,71123,0.02,123977,135387,11410,4,holden,450-99-8615,Laquey,MO,65534,Midwest,Type A,No
+75,75,Ms.,Renee,Beverly,F,renee.beverly@rediffmail.com,40.1,60,7/18/2015,2.03,104020,0.02,86335,88372,2037,1,holden,684-24-1555,Goehner,NE,68364,Midwest,Type A,No
+76,76,Hon.,Tommie,Weller,M,tommie.weller@cox.net,58.01,64,7/15/2002,15.05,136568,0.3,87305,96755,9450,4,holden,194-86-7809,Dearing,GA,30808,South,Type A,No
+77,77,Mr.,Michale,Colson,M,michale.colson@comcast.net,55.73,76,8/20/2002,14.95,115204,0.22,88981,97643,8662,3,holden,229-99-7364,San Diego,CA,92175,West,Type A,No
+78,78,Ms.,Denisha,Fitch,F,denisha.fitch@msn.com,26.79,57,4/28/2017,0.25,140459,0.08,34985,42660,7675,3,holden,216-89-7736,Coahoma,TX,79511,South,Type A,No
+79,79,Mr.,Napoleon,Kelsey,M,napoleon.kelsey@hotmail.com,21.99,50,12/8/2016,0.64,91209,0.19,35984,43899,7915,3,holden,608-87-5484,Saint Petersburg,FL,33734,South,Type B,No
+80,80,Drs.,Tonya,Wilson,F,tonya.wilson@aol.com,37.28,51,1/7/2013,4.56,109416,0.07,36272,44918,8646,3,holden,019-94-9784,Springtown,PA,18081,Northeast,Type B,No
+81,81,Hon.,Clement,Hidalgo,M,clement.hidalgo@gmail.com,57.42,57,2/11/1988,29.48,113419,0.11,61640,72809,11169,4,holden,224-99-4650,Attleboro Falls,MA,2763,Northeast,Type B,No
+82,82,Mrs.,Charles,Quintero,F,charles.quintero@gmail.com,59.38,57,12/22/2012,4.6,115542,0.09,62422,72500,10078,4,holden,094-02-8828,Silver Creek,MN,55380,Midwest,Type B,No
+83,83,Drs.,Chastity,Pineda,F,chastity.pineda@shaw.ca,42.25,40,6/19/2010,7.11,136780,0.26,62980,73151,10171,4,lexus,279-15-4975,Bassett,WI,53101,Midwest,Type B,No
+84,84,Mrs.,Verna,Michaud,F,verna.michaud@gmail.com,24.25,42,10/20/2015,1.77,100243,0.25,63511,65361,1850,0,lexus,564-99-2134,Washington,PA,15301,Northeast,Type B,No
+85,85,Mr.,Alfred,Beamon,M,alfred.beamon@gmail.com,54.1,73,3/22/2003,14.36,118321,0.0,128571,138216,9645,4,lexus,251-99-8106,Custer,MT,59024,West,Type B,No
+86,86,Mrs.,Michal,Maurer,F,michal.maurer@yahoo.com,40.66,45,5/1/2000,17.25,48687,0.11,117609,125356,7747,3,lexus,237-99-0766,White Plains,NC,27031,South,Type B,No
+87,87,Drs.,Wenona,Carmichael,F,wenona.carmichael@yahoo.com,52.94,51,8/31/2005,11.92,53789,0.3,120178,127784,7606,3,toyota,480-41-9877,Walkerton,IN,46574,Midwest,Type B,No
+88,88,Mr.,Allan,Bernhardt,M,allan.bernhardt@gmail.com,55.55,52,1/2/1987,30.59,119879,0.18,122383,129671,7288,3,toyota,526-99-3494,Washington,DC,20380,South,Type B,No
+89,89,Mrs.,Nam,Schmidt,F,nam.schmidt@yahoo.co.uk,24.32,60,1/27/2016,1.5,147420,0.14,123977,135387,11410,4,toyota,657-36-5472,Fairmount,IN,46928,Midwest,Type B,No
+90,90,Ms.,Yolande,Piper,F,yolande.piper@gmail.com,50.84,54,4/14/1998,19.3,57365,0.0,86335,97372,11037,4,tata,713-18-3200,Velpen,IN,47590,Midwest,Type B,No
+91,91,Mr.,Whitney,Shipman,M,whitney.shipman@gmail.com,34.78,68,5/18/2007,10.2,99825,0.1,87305,96755,9450,4,tata,172-86-7071,Toledo,IA,52342,Midwest,Healthy,No
+92,92,Hon.,Terence,Ferro,M,terence.ferro@gmail.com,35.55,66,4/23/2015,2.27,125561,0.04,88981,97643,8662,3,tata,375-37-5783,Madison,WI,53718,Midwest,Healthy,No
+93,93,Hon.,Alberto,Riley,M,alberto.riley@gmail.com,43.57,85,12/17/2004,12.62,59008,0.04,34985,42660,7675,3,tata,345-11-4018,Eldorado,IL,62930,Midwest,Healthy,No
+94,94,Ms.,Jacqueline,Burk,F,jacqueline.burk@verizon.net,28.1,57,9/23/2012,4.85,96703,0.01,35984,43899,7915,3,tata,695-16-1567,Saranac Lake,NY,12983,Northeast,Healthy,No
+95,95,Mr.,Clemente,Gould,M,clemente.gould@hotmail.com,55.61,81,10/2/1992,24.84,59506,0.01,36272,44918,8646,3,suzuki,271-17-5467,Pearl,MS,39288,South,Healthy,No
+96,96,Mrs.,Chang,Roden,F,chang.roden@yahoo.com,28.91,51,8/6/2010,6.98,53430,0.21,61640,72809,11169,4,ferrari,074-02-9202,Salina,KS,67402,Midwest,Healthy,No
+97,97,Mr.,Marvin,Nickel,M,marvin.nickel@ibm.com,30.69,87,10/6/2012,4.81,94656,0.27,62422,72500,10078,4,ferrari,552-99-5545,Welchs Creek,KY,42287,South,Healthy,No
+98,98,Mrs.,Eldora,Tribble,F,eldora.tribble@earthlink.net,22.18,54,10/17/2016,0.78,91984,0.04,62980,73151,10171,4,ferrari,763-12-2082,Mine Run,VA,22568,South,Healthy,No
+99,99,Ms.,Azzie,Layman,F,azzie.layman@hotmail.co.uk,55.93,56,3/26/2004,13.35,126984,0.02,63511,73361,9850,4,ferrari,637-29-1007,Salem,OR,97317,West,Healthy,No
